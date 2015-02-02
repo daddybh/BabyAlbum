@@ -10,6 +10,12 @@
     "album",
     "baby"
   ],
-  "author": "Chris Cheung",
-  "license": "ISC"
+  "author": "daddybh",
+  "license": "ISC",
+  "devDependencies": {
+    "exif": "^0.4.0",
+    "fs.io": "^1.0.0",
+    "moment": "^2.9.0",
+    "q": "^1.1.2"
+  }
 }
